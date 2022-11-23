@@ -11,19 +11,19 @@ function Footer() {
     <div>
       <div className="socials-layer">
         <a href="https://facebook.com/" target="_blank" rel="noreferrer">
-          <img src={facebook} alt="" />
+          <img src={facebook} alt="facebook" />
         </a>
-        <a href="https://www.twitter.com/alhaji_deen1" target="_blank" rel="noreferrer">
-          <img src={twitter} alt="" />
+        <a href="https://www.twitter.com/NdorrhEbu" target="_blank" rel="noreferrer">
+          <img src={twitter} alt="twitter" />
         </a>
-        <a href="https://www.linkedin.com/in/nurudeensalifu" target="_blank" rel="noreferrer">
-          <img src={linkedin} alt="" />
+        <a href="https://www.linkedin.com/in/ndorrhoswaldebu" target="_blank" rel="noreferrer">
+          <img src={linkedin} alt="linkedin" />
         </a>
-        <a href="https://github.com/Alhajideen" target="_blank" rel="noreferrer">
-          <img src={github} alt="" />
+        <a href="https://github.com/ndorrh" target="_blank" rel="noreferrer">
+          <img src={github} alt="github" />
         </a>
-        <a href="https://instagram.com/Alhaji_deen1" target="_blank" rel="noreferrer">
-          <img src={instagram} alt="" />
+        <a href="https://instagram.com/" target="_blank" rel="noreferrer">
+          <img src={instagram} alt="instagram" />
         </a>
       </div>
       <div className="copyright">
