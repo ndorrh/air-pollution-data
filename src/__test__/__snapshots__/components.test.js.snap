@@ -84,6 +84,7 @@ Object {
           >
             <section
               class="banner-section"
+              id="banner"
             >
               <div
                 class="banner shadow p-3 mb-5 bg-white"
@@ -149,11 +150,11 @@ Object {
                       <a
                         href="/Albania"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Albania
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -185,11 +186,11 @@ Object {
                       <a
                         href="/Andorra"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Andorra
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -221,11 +222,11 @@ Object {
                       <a
                         href="/Austria"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Austria
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -257,11 +258,11 @@ Object {
                       <a
                         href="/Belarus"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Belarus
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -293,11 +294,11 @@ Object {
                       <a
                         href="/Belgium"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Belgium
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -329,11 +330,11 @@ Object {
                       <a
                         href="/Bosnia and Herzegovina"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Bosnia and Herzegovina
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -365,11 +366,11 @@ Object {
                       <a
                         href="/Bulgaria"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Bulgaria
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -401,11 +402,11 @@ Object {
                       <a
                         href="/Croatia"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Croatia
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -437,11 +438,11 @@ Object {
                       <a
                         href="/Czech Republic"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Czech Republic
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -473,11 +474,11 @@ Object {
                       <a
                         href="/Denmark"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Denmark
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -509,11 +510,11 @@ Object {
                       <a
                         href="/Estonia"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Estonia
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -545,11 +546,11 @@ Object {
                       <a
                         href="/Faroe Islands"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Faroe Islands
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -581,11 +582,11 @@ Object {
                       <a
                         href="/Finland"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Finland
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -617,11 +618,11 @@ Object {
                       <a
                         href="/France"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           France
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -653,11 +654,11 @@ Object {
                       <a
                         href="/Germany"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Germany
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -689,11 +690,11 @@ Object {
                       <a
                         href="/Gibraltar"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Gibraltar
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -725,11 +726,11 @@ Object {
                       <a
                         href="/Greece"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Greece
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -761,11 +762,11 @@ Object {
                       <a
                         href="/Hungary"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Hungary
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -797,11 +798,11 @@ Object {
                       <a
                         href="/Iceland"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Iceland
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -833,11 +834,11 @@ Object {
                       <a
                         href="/Ireland"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Ireland
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -869,11 +870,11 @@ Object {
                       <a
                         href="/Isle of Man"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Isle of Man
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -905,11 +906,11 @@ Object {
                       <a
                         href="/Italy"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Italy
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -941,11 +942,11 @@ Object {
                       <a
                         href="/Latvia"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Latvia
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -977,11 +978,11 @@ Object {
                       <a
                         href="/Liechtenstein"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Liechtenstein
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -1013,11 +1014,11 @@ Object {
                       <a
                         href="/Lithuania"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Lithuania
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -1049,11 +1050,11 @@ Object {
                       <a
                         href="/Luxembourg"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Luxembourg
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -1085,11 +1086,11 @@ Object {
                       <a
                         href="/Malta"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Malta
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -1121,11 +1122,11 @@ Object {
                       <a
                         href="/Monaco"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Monaco
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -1157,11 +1158,11 @@ Object {
                       <a
                         href="/Montenegro"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Montenegro
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -1193,11 +1194,11 @@ Object {
                       <a
                         href="/Netherlands"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Netherlands
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -1229,11 +1230,11 @@ Object {
                       <a
                         href="/Norway"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Norway
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -1265,11 +1266,11 @@ Object {
                       <a
                         href="/Poland"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Poland
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -1301,11 +1302,11 @@ Object {
                       <a
                         href="/Portugal"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Portugal
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -1337,11 +1338,11 @@ Object {
                       <a
                         href="/Romania"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Romania
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -1373,11 +1374,11 @@ Object {
                       <a
                         href="/San Marino"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           San Marino
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -1409,11 +1410,11 @@ Object {
                       <a
                         href="/Serbia"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Serbia
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -1445,11 +1446,11 @@ Object {
                       <a
                         href="/Slovakia"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Slovakia
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -1481,11 +1482,11 @@ Object {
                       <a
                         href="/Slovenia"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Slovenia
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -1517,11 +1518,11 @@ Object {
                       <a
                         href="/Spain"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Spain
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -1553,11 +1554,11 @@ Object {
                       <a
                         href="/Sweden"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Sweden
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -1589,11 +1590,11 @@ Object {
                       <a
                         href="/Switzerland"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Switzerland
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -1625,11 +1626,11 @@ Object {
                       <a
                         href="/Ukraine"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           Ukraine
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -1661,11 +1662,11 @@ Object {
                       <a
                         href="/United Kingdom"
                       >
-                        <h1
+                        <h6
                           class="country-name"
                         >
                           United Kingdom
-                        </h1>
+                        </h6>
                       </a>
                     </div>
                     <div
@@ -1695,47 +1696,47 @@ Object {
               target="_blank"
             >
               <img
-                alt=""
+                alt="facebook"
                 src="facebook.png"
               />
             </a>
             <a
-              href="https://www.twitter.com/alhaji_deen1"
+              href="https://www.twitter.com/NdorrhEbu"
               rel="noreferrer"
               target="_blank"
             >
               <img
-                alt=""
+                alt="twitter"
                 src="twitter.png"
               />
             </a>
             <a
-              href="https://www.linkedin.com/in/nurudeensalifu"
+              href="https://www.linkedin.com/in/ndorrhoswaldebu"
               rel="noreferrer"
               target="_blank"
             >
               <img
-                alt=""
+                alt="linkedin"
                 src="linkedin.png"
               />
             </a>
             <a
-              href="https://github.com/Alhajideen"
+              href="https://github.com/ndorrh"
               rel="noreferrer"
               target="_blank"
             >
               <img
-                alt=""
+                alt="github"
                 src="github.png"
               />
             </a>
             <a
-              href="https://instagram.com/Alhaji_deen1"
+              href="https://instagram.com/"
               rel="noreferrer"
               target="_blank"
             >
               <img
-                alt=""
+                alt="instagram"
                 src="instagram.png"
               />
             </a>
@@ -1744,7 +1745,7 @@ Object {
             class="copyright"
           >
             <h4>
-              © Salifu Nurudeen
+              Ndorrh Oswald
             </h4>
           </div>
         </div>
@@ -1831,6 +1832,7 @@ Object {
         >
           <section
             class="banner-section"
+            id="banner"
           >
             <div
               class="banner shadow p-3 mb-5 bg-white"
@@ -1896,11 +1898,11 @@ Object {
                     <a
                       href="/Albania"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Albania
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -1932,11 +1934,11 @@ Object {
                     <a
                       href="/Andorra"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Andorra
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -1968,11 +1970,11 @@ Object {
                     <a
                       href="/Austria"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Austria
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -2004,11 +2006,11 @@ Object {
                     <a
                       href="/Belarus"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Belarus
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -2040,11 +2042,11 @@ Object {
                     <a
                       href="/Belgium"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Belgium
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -2076,11 +2078,11 @@ Object {
                     <a
                       href="/Bosnia and Herzegovina"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Bosnia and Herzegovina
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -2112,11 +2114,11 @@ Object {
                     <a
                       href="/Bulgaria"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Bulgaria
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -2148,11 +2150,11 @@ Object {
                     <a
                       href="/Croatia"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Croatia
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -2184,11 +2186,11 @@ Object {
                     <a
                       href="/Czech Republic"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Czech Republic
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -2220,11 +2222,11 @@ Object {
                     <a
                       href="/Denmark"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Denmark
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -2256,11 +2258,11 @@ Object {
                     <a
                       href="/Estonia"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Estonia
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -2292,11 +2294,11 @@ Object {
                     <a
                       href="/Faroe Islands"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Faroe Islands
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -2328,11 +2330,11 @@ Object {
                     <a
                       href="/Finland"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Finland
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -2364,11 +2366,11 @@ Object {
                     <a
                       href="/France"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         France
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -2400,11 +2402,11 @@ Object {
                     <a
                       href="/Germany"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Germany
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -2436,11 +2438,11 @@ Object {
                     <a
                       href="/Gibraltar"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Gibraltar
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -2472,11 +2474,11 @@ Object {
                     <a
                       href="/Greece"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Greece
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -2508,11 +2510,11 @@ Object {
                     <a
                       href="/Hungary"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Hungary
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -2544,11 +2546,11 @@ Object {
                     <a
                       href="/Iceland"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Iceland
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -2580,11 +2582,11 @@ Object {
                     <a
                       href="/Ireland"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Ireland
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -2616,11 +2618,11 @@ Object {
                     <a
                       href="/Isle of Man"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Isle of Man
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -2652,11 +2654,11 @@ Object {
                     <a
                       href="/Italy"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Italy
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -2688,11 +2690,11 @@ Object {
                     <a
                       href="/Latvia"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Latvia
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -2724,11 +2726,11 @@ Object {
                     <a
                       href="/Liechtenstein"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Liechtenstein
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -2760,11 +2762,11 @@ Object {
                     <a
                       href="/Lithuania"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Lithuania
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -2796,11 +2798,11 @@ Object {
                     <a
                       href="/Luxembourg"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Luxembourg
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -2832,11 +2834,11 @@ Object {
                     <a
                       href="/Malta"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Malta
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -2868,11 +2870,11 @@ Object {
                     <a
                       href="/Monaco"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Monaco
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -2904,11 +2906,11 @@ Object {
                     <a
                       href="/Montenegro"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Montenegro
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -2940,11 +2942,11 @@ Object {
                     <a
                       href="/Netherlands"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Netherlands
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -2976,11 +2978,11 @@ Object {
                     <a
                       href="/Norway"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Norway
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -3012,11 +3014,11 @@ Object {
                     <a
                       href="/Poland"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Poland
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -3048,11 +3050,11 @@ Object {
                     <a
                       href="/Portugal"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Portugal
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -3084,11 +3086,11 @@ Object {
                     <a
                       href="/Romania"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Romania
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -3120,11 +3122,11 @@ Object {
                     <a
                       href="/San Marino"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         San Marino
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -3156,11 +3158,11 @@ Object {
                     <a
                       href="/Serbia"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Serbia
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -3192,11 +3194,11 @@ Object {
                     <a
                       href="/Slovakia"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Slovakia
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -3228,11 +3230,11 @@ Object {
                     <a
                       href="/Slovenia"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Slovenia
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -3264,11 +3266,11 @@ Object {
                     <a
                       href="/Spain"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Spain
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -3300,11 +3302,11 @@ Object {
                     <a
                       href="/Sweden"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Sweden
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -3336,11 +3338,11 @@ Object {
                     <a
                       href="/Switzerland"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Switzerland
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -3372,11 +3374,11 @@ Object {
                     <a
                       href="/Ukraine"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         Ukraine
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -3408,11 +3410,11 @@ Object {
                     <a
                       href="/United Kingdom"
                     >
-                      <h1
+                      <h6
                         class="country-name"
                       >
                         United Kingdom
-                      </h1>
+                      </h6>
                     </a>
                   </div>
                   <div
@@ -3442,47 +3444,47 @@ Object {
             target="_blank"
           >
             <img
-              alt=""
+              alt="facebook"
               src="facebook.png"
             />
           </a>
           <a
-            href="https://www.twitter.com/alhaji_deen1"
+            href="https://www.twitter.com/NdorrhEbu"
             rel="noreferrer"
             target="_blank"
           >
             <img
-              alt=""
+              alt="twitter"
               src="twitter.png"
             />
           </a>
           <a
-            href="https://www.linkedin.com/in/nurudeensalifu"
+            href="https://www.linkedin.com/in/ndorrhoswaldebu"
             rel="noreferrer"
             target="_blank"
           >
             <img
-              alt=""
+              alt="linkedin"
               src="linkedin.png"
             />
           </a>
           <a
-            href="https://github.com/Alhajideen"
+            href="https://github.com/ndorrh"
             rel="noreferrer"
             target="_blank"
           >
             <img
-              alt=""
+              alt="github"
               src="github.png"
             />
           </a>
           <a
-            href="https://instagram.com/Alhaji_deen1"
+            href="https://instagram.com/"
             rel="noreferrer"
             target="_blank"
           >
             <img
-              alt=""
+              alt="instagram"
               src="instagram.png"
             />
           </a>
@@ -3491,7 +3493,7 @@ Object {
           class="copyright"
         >
           <h4>
-            © Salifu Nurudeen
+            Ndorrh Oswald
           </h4>
         </div>
       </div>
@@ -3636,7 +3638,7 @@ Object {
           <p
             class="text-secondary"
           >
-            Contact us via mail @devjs.nurudeen@gmail.com
+            Contact us via mail ndorrh@gmail.com
           </p>
           <p>
             Or click on any of the social media links below to reach me directly.
@@ -3652,47 +3654,47 @@ Object {
               target="_blank"
             >
               <img
-                alt=""
+                alt="facebook"
                 src="facebook.png"
               />
             </a>
             <a
-              href="https://www.twitter.com/alhaji_deen1"
+              href="https://www.twitter.com/NdorrhEbu"
               rel="noreferrer"
               target="_blank"
             >
               <img
-                alt=""
+                alt="twitter"
                 src="twitter.png"
               />
             </a>
             <a
-              href="https://www.linkedin.com/in/nurudeensalifu"
+              href="https://www.linkedin.com/in/ndorrhoswaldebu"
               rel="noreferrer"
               target="_blank"
             >
               <img
-                alt=""
+                alt="linkedin"
                 src="linkedin.png"
               />
             </a>
             <a
-              href="https://github.com/Alhajideen"
+              href="https://github.com/ndorrh"
               rel="noreferrer"
               target="_blank"
             >
               <img
-                alt=""
+                alt="github"
                 src="github.png"
               />
             </a>
             <a
-              href="https://instagram.com/Alhaji_deen1"
+              href="https://instagram.com/"
               rel="noreferrer"
               target="_blank"
             >
               <img
-                alt=""
+                alt="instagram"
                 src="instagram.png"
               />
             </a>
@@ -3701,7 +3703,7 @@ Object {
             class="copyright"
           >
             <h4>
-              © Salifu Nurudeen
+              Ndorrh Oswald
             </h4>
           </div>
         </div>
@@ -3789,7 +3791,7 @@ Object {
         <p
           class="text-secondary"
         >
-          Contact us via mail @devjs.nurudeen@gmail.com
+          Contact us via mail ndorrh@gmail.com
         </p>
         <p>
           Or click on any of the social media links below to reach me directly.
@@ -3805,47 +3807,47 @@ Object {
             target="_blank"
           >
             <img
-              alt=""
+              alt="facebook"
               src="facebook.png"
             />
           </a>
           <a
-            href="https://www.twitter.com/alhaji_deen1"
+            href="https://www.twitter.com/NdorrhEbu"
             rel="noreferrer"
             target="_blank"
           >
             <img
-              alt=""
+              alt="twitter"
               src="twitter.png"
             />
           </a>
           <a
-            href="https://www.linkedin.com/in/nurudeensalifu"
+            href="https://www.linkedin.com/in/ndorrhoswaldebu"
             rel="noreferrer"
             target="_blank"
           >
             <img
-              alt=""
+              alt="linkedin"
               src="linkedin.png"
             />
           </a>
           <a
-            href="https://github.com/Alhajideen"
+            href="https://github.com/ndorrh"
             rel="noreferrer"
             target="_blank"
           >
             <img
-              alt=""
+              alt="github"
               src="github.png"
             />
           </a>
           <a
-            href="https://instagram.com/Alhaji_deen1"
+            href="https://instagram.com/"
             rel="noreferrer"
             target="_blank"
           >
             <img
-              alt=""
+              alt="instagram"
               src="instagram.png"
             />
           </a>
@@ -3854,7 +3856,7 @@ Object {
           class="copyright"
         >
           <h4>
-            © Salifu Nurudeen
+            Ndorrh Oswald
           </h4>
         </div>
       </div>
@@ -3991,6 +3993,19 @@ Object {
           </nav>
         </div>
         <div
+          class="back-btn container"
+        >
+          <button
+            type="button"
+          >
+            <img
+              alt="Back"
+              src="back.png"
+            />
+            Back Home
+          </button>
+        </div>
+        <div
           class="back-home"
         />
         <div
@@ -4038,47 +4053,47 @@ Object {
               target="_blank"
             >
               <img
-                alt=""
+                alt="facebook"
                 src="facebook.png"
               />
             </a>
             <a
-              href="https://www.twitter.com/alhaji_deen1"
+              href="https://www.twitter.com/NdorrhEbu"
               rel="noreferrer"
               target="_blank"
             >
               <img
-                alt=""
+                alt="twitter"
                 src="twitter.png"
               />
             </a>
             <a
-              href="https://www.linkedin.com/in/nurudeensalifu"
+              href="https://www.linkedin.com/in/ndorrhoswaldebu"
               rel="noreferrer"
               target="_blank"
             >
               <img
-                alt=""
+                alt="linkedin"
                 src="linkedin.png"
               />
             </a>
             <a
-              href="https://github.com/Alhajideen"
+              href="https://github.com/ndorrh"
               rel="noreferrer"
               target="_blank"
             >
               <img
-                alt=""
+                alt="github"
                 src="github.png"
               />
             </a>
             <a
-              href="https://instagram.com/Alhaji_deen1"
+              href="https://instagram.com/"
               rel="noreferrer"
               target="_blank"
             >
               <img
-                alt=""
+                alt="instagram"
                 src="instagram.png"
               />
             </a>
@@ -4087,7 +4102,7 @@ Object {
             class="copyright"
           >
             <h4>
-              © Salifu Nurudeen
+              Ndorrh Oswald
             </h4>
           </div>
         </div>
@@ -4167,6 +4182,19 @@ Object {
         </nav>
       </div>
       <div
+        class="back-btn container"
+      >
+        <button
+          type="button"
+        >
+          <img
+            alt="Back"
+            src="back.png"
+          />
+          Back Home
+        </button>
+      </div>
+      <div
         class="back-home"
       />
       <div
@@ -4214,47 +4242,47 @@ Object {
             target="_blank"
           >
             <img
-              alt=""
+              alt="facebook"
               src="facebook.png"
             />
           </a>
           <a
-            href="https://www.twitter.com/alhaji_deen1"
+            href="https://www.twitter.com/NdorrhEbu"
             rel="noreferrer"
             target="_blank"
           >
             <img
-              alt=""
+              alt="twitter"
               src="twitter.png"
             />
           </a>
           <a
-            href="https://www.linkedin.com/in/nurudeensalifu"
+            href="https://www.linkedin.com/in/ndorrhoswaldebu"
             rel="noreferrer"
             target="_blank"
           >
             <img
-              alt=""
+              alt="linkedin"
               src="linkedin.png"
             />
           </a>
           <a
-            href="https://github.com/Alhajideen"
+            href="https://github.com/ndorrh"
             rel="noreferrer"
             target="_blank"
           >
             <img
-              alt=""
+              alt="github"
               src="github.png"
             />
           </a>
           <a
-            href="https://instagram.com/Alhaji_deen1"
+            href="https://instagram.com/"
             rel="noreferrer"
             target="_blank"
           >
             <img
-              alt=""
+              alt="instagram"
               src="instagram.png"
             />
           </a>
@@ -4263,7 +4291,7 @@ Object {
           class="copyright"
         >
           <h4>
-            © Salifu Nurudeen
+            Ndorrh Oswald
           </h4>
         </div>
       </div>

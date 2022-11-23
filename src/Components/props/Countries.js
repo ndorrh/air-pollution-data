@@ -28,7 +28,7 @@ function Countries() {
   };
   return (
     <div className="container">
-      <section className="banner-section">
+      <section className="banner-section" id="banner">
         <div className="banner shadow p-3 mb-5 bg-white">
           <div className="banner-text">
             <h1 className="">Get air quality data </h1>
