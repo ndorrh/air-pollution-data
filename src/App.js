@@ -1,19 +1,18 @@
-import React from 'react';
-import './App.css';
-import { Route, Routes } from 'react-router-dom';
-import Footer from './common/Footer';
-import Header from './common/Header';
-import Home from './pages/Home';
-import SearchPage from './pages/SearchPage';
+import { Routes, Route } from 'react-router-dom';
+import Home from './Components/Pages/Home';
+import Details from './Components/Pages/Details';
+import Contact from './Components/Pages/Contact';
 
-const App = () => (
-  // BEM
-  <div className="app">
-    <Routes>
-      <Route path="/searchPage" element={} />
-      <Route path="/" element={} />
-    </Routes>
-  </div>
-);
+function App() {
+  return (
+    <div className="App">
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/:country" element={<Details />} />
+        <Route path="/contact" element={<Contact />} />
+      </Routes>
+    </div>
+  );
+}
 
 export default App;
