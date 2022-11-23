@@ -1,4 +1,5 @@
 import React from 'react';
+import Countries from '../props/Countries';
 import Footer from '../props/Footer';
 import Nav from '../props/NavBar';
 import '../../styles/country.css';
@@ -8,7 +9,7 @@ function Home() {
     <div>
       <Nav />
       <div className="countries-container">
-        <Countri
+        <Countries />
       </div>
       <Footer />
     </div>
