@@ -4,7 +4,7 @@ import { Provider } from 'react-redux';
 import Countries from './Countries';
 import store from '../../redux/store';
 
-it('Render table element on screen', () => {
+it('Render banner on screen', () => {
   render(
     <Router>
       <Provider store={store}>
