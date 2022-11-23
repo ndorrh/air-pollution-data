@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/air-pollution-data/static/css/main.7c95fba8.css",
-    "main.js": "/air-pollution-data/static/js/main.9f5d7fb2.js",
+    "main.js": "/air-pollution-data/static/js/main.27084932.js",
     "static/js/787.a536eb02.chunk.js": "/air-pollution-data/static/js/787.a536eb02.chunk.js",
     "static/media/instagram.png": "/air-pollution-data/static/media/instagram.8e408da00539cdef4629.png",
     "static/media/loading.gif": "/air-pollution-data/static/media/loading.696cd6cc8b3126c6f770.gif",
@@ -13,11 +13,11 @@
     "static/media/facebook.png": "/air-pollution-data/static/media/facebook.4f037d961598aff2a0a4.png",
     "index.html": "/air-pollution-data/index.html",
     "main.7c95fba8.css.map": "/air-pollution-data/static/css/main.7c95fba8.css.map",
-    "main.9f5d7fb2.js.map": "/air-pollution-data/static/js/main.9f5d7fb2.js.map",
+    "main.27084932.js.map": "/air-pollution-data/static/js/main.27084932.js.map",
     "787.a536eb02.chunk.js.map": "/air-pollution-data/static/js/787.a536eb02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c95fba8.css",
-    "static/js/main.9f5d7fb2.js"
+    "static/js/main.27084932.js"
   ]
 }
