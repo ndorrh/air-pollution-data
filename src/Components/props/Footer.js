@@ -27,7 +27,7 @@ function Footer() {
         </a>
       </div>
       <div className="copyright">
-        <h4>© Salifu Nurudeen</h4>
+        <h4>Ndorrh Oswald</h4>
       </div>
     </div>
   );
