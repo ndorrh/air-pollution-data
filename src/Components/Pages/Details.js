@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from 'react';
+import GridLoader from 'react-spinners/GridLoader';
 import '../../styles/details.css';
 import Table from 'react-bootstrap/Table';
 import { useNavigate, useParams } from 'react-router-dom';
 import { useSelector, useDispatch } from 'react-redux';
 import { getPollutionData } from '../../redux/slice';
-import Loading from '../../imgs/loading.gif';
 import data from '../../data/data';
 import NavBar from '../props/NavBar';
 import Footer from '../props/Footer';
@@ -73,7 +73,13 @@ function Details() {
         </div>
       ) : (
         <div className="loading-data">
-          <img src={Loading} alt="" />
+          <GridLoader
+            color="#36d7b7"
+            loading={loading}
+            size={15}
+            aria-label="Loading Spinner"
+            data-testid="loader"
+          />
         </div>
       )}
       <Footer />
